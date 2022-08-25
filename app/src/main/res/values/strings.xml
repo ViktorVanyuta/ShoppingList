@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="add_new_shop_item">Add new shop item</string>
+    <string name="shop_item_card_name">Name:</string>
+    <string name="shop_item_card_count">Count:</string>
+    <string name="shop_item_card_save">Save</string>
+    <string name="error_input_count">Invalid count</string>
+    <string name="error_input_name">Invalid name</string>
+</resources>
